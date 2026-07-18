@@ -1,0 +1,15 @@
+{
+  "models": [
+    {
+      "model_name": "gemma-3n-E4B-it-int4.litertlm",
+      "single_part_address": null,
+      "multi_part_address": [
+        "https://media.githubusercontent.com/media/hrka6761/Hooshmand_App_files/refs/heads/main/gemma-3n-E4B-it-int4.litertlm_000?download=true",
+        "https://media.githubusercontent.com/media/hrka6761/Hooshmand_App_files/refs/heads/main/gemma-3n-E4B-it-int4.litertlm_001?download=true",
+        "https://media.githubusercontent.com/media/hrka6761/Hooshmand_App_files/refs/heads/main/gemma-3n-E4B-it-int4.litertlm_002?download=true",
+        "https://media.githubusercontent.com/media/hrka6761/Hooshmand_App_files/refs/heads/main/gemma-3n-E4B-it-int4.litertlm_003?download=true",
+        "https://media.githubusercontent.com/media/hrka6761/Hooshmand_App_files/refs/heads/main/gemma-3n-E4B-it-int4.litertlm_004?download=true"
+      ]
+    }
+  ]
+}
