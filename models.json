@@ -2,6 +2,7 @@
   "models": [
     {
       "model_name": "gemma-3n-E4B-it-int4.litertlm",
+      "model_size": 4919541760,
       "single_part_address": null,
       "multi_part_address": [
         "https://media.githubusercontent.com/media/hrka6761/Hooshmand_App_files/refs/heads/main/gemma-3n-E4B-it-int4.litertlm_000?download=true",
